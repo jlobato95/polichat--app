@@ -1,0 +1,61 @@
+.nav {
+  max-width: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 0 25px;
+  padding-top: 30px;
+}
+.nav img {
+  display: block;
+  max-width: 100%;
+  cursor: pointer;
+}
+.nav__home {
+  cursor: pointer;
+  padding-left: 15px;
+  color: #009BBD;
+
+}
+
+.nav__comment {
+  cursor: pointer;
+  padding-left: 15px;
+  color: #009BBD;
+
+}
+
+.nav__graph {
+  cursor: pointer;
+  padding-left: 15px;
+  color: #009BBD;
+
+}
+
+.nav__building {
+  cursor: pointer;
+  padding-left: 15px;
+  color: #009BBD;
+
+}
+
+.nav__settings {
+  cursor: pointer;
+  padding-left: 15px;
+  color: #009BBD;
+
+}
+
+.nav__gear {
+  cursor: pointer;
+  padding-left: 15px;
+  color: #009BBD;
+
+}
+
+.nav__currency {
+  cursor: pointer;
+  padding-left: 15px;
+  color: #009BBD;
+
+}
