@@ -10,50 +10,49 @@ export default class ChatContent extends Component {
     {
       key: 1,
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQF9RpB5xp-Liw/profile-displayphoto-shrink_200_200/0/1654006441436?e=1664409600&v=beta&t=4ymDR82HiRRVQ6TvBQ0HkBZw-EkQeX54k3nVGCO9-X4",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       type: "",
       msg: "Olá, tudo bem?",
     },
     {
       key: 2,
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQFChE1sYnTYxw/profile-displayphoto-shrink_200_200/0/1654026281146?e=1664409600&v=beta&t=aDTltxPZ8mDRh9WMuvqSIavLStgQG9L_4dS-bl6-nEk",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       type: "other",
       msg: "Estou bem.",
     },
     {
       key: 3,
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQFChE1sYnTYxw/profile-displayphoto-shrink_200_200/0/1654026281146?e=1664409600&v=beta&t=aDTltxPZ8mDRh9WMuvqSIavLStgQG9L_4dS-bl6-nEk",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       type: "other",
       msg: "E você como está?",
     },
     {
       key: 4,
-      image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQF9RpB5xp-Liw/profile-displayphoto-shrink_200_200/0/1654006441436?e=1664409600&v=beta&t=4ymDR82HiRRVQ6TvBQ0HkBZw-EkQeX54k3nVGCO9-X4",
+     image:
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       type: "",
       msg: "Estou bem também.",
     },
     {
       key: 5,
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQFChE1sYnTYxw/profile-displayphoto-shrink_200_200/0/1654026281146?e=1664409600&v=beta&t=aDTltxPZ8mDRh9WMuvqSIavLStgQG9L_4dS-bl6-nEk",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       type: "other",
       msg: "Que bom! Está confiante com o processo seletivo da Poli?",
     },
     {
       key: 6,
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQF9RpB5xp-Liw/profile-displayphoto-shrink_200_200/0/1654006441436?e=1664409600&v=beta&t=4ymDR82HiRRVQ6TvBQ0HkBZw-EkQeX54k3nVGCO9-X4",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       type: "",
       msg: "Sim, estou muito ansioso para saber do resultado. Seria um prazer enorme entrar para a equipe.",
     },
     {
       key: 7,
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQFChE1sYnTYxw/profile-displayphoto-shrink_200_200/0/1654026281146?e=1664409600&v=beta&t=aDTltxPZ8mDRh9WMuvqSIavLStgQG9L_4dS-bl6-nEk",
-      type: "other",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       msg: "Boa sorte! Você tem potencial.",
     },
   ];
@@ -79,7 +78,7 @@ export default class ChatContent extends Component {
             type: "",
             msg: this.state.msg,
             image:
-              "https://media-exp1.licdn.com/dms/image/C4D03AQF9RpB5xp-Liw/profile-displayphoto-shrink_200_200/0/1654006441436?e=1664409600&v=beta&t=4ymDR82HiRRVQ6TvBQ0HkBZw-EkQeX54k3nVGCO9-X4",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
           });
           this.setState({ chat: [...this.chatItms] });
           this.scrollToBottom();
@@ -101,7 +100,7 @@ export default class ChatContent extends Component {
             <div className="current-chatting-user">
               <Avatar
                 isOnline="active"
-                image="https://media-exp1.licdn.com/dms/image/C4D03AQFChE1sYnTYxw/profile-displayphoto-shrink_200_200/0/1654026281146?e=1664409600&v=beta&t=aDTltxPZ8mDRh9WMuvqSIavLStgQG9L_4dS-bl6-nEk"
+                image="https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png"
               />
               <p>Alberto Filho</p>
             </div>
