@@ -72,8 +72,8 @@ export default class ChatContent extends Component {
 
   componentDidMount() {
     window.addEventListener("keydown", (e) => {
-      if (e.keyCode == 13) {
-        if (this.state.msg != "") {
+      if (e.keyCode === 13) {
+        if (this.state.msg !== "") {
           this.chatItms.push({
             key: 1,
             type: "",
