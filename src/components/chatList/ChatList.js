@@ -6,7 +6,7 @@ export default class ChatList extends Component {
   allChatUsers = [
     {
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQFChE1sYnTYxw/profile-displayphoto-shrink_200_200/0/1654026281146?e=1664409600&v=beta&t=aDTltxPZ8mDRh9WMuvqSIavLStgQG9L_4dS-bl6-nEk",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 1,
       name: "Alberto Filho",
       active: true,
@@ -14,7 +14,7 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://media-exp1.licdn.com/dms/image/C4E03AQFDdLvnuxFrBQ/profile-displayphoto-shrink_200_200/0/1654785047688?e=1664409600&v=beta&t=Wj9TmrN94_aepwbdyK7WwE_fJE-yU3Eqjz-W6W8bwmg",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 2,
       name: "GH",
       active: false,
@@ -22,7 +22,7 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQEugXYBvpzq5w/profile-displayphoto-shrink_200_200/0/1654622119112?e=1664409600&v=beta&t=GB65jyYrTOrOE5X753ww2xa07ANHBkhWCy39W3DCR8I",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 3,
       name: "Mariana Magre",
       active: false,
@@ -30,7 +30,7 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQF_S4QTC7CC4g/profile-displayphoto-shrink_200_200/0/1655222128248?e=1664409600&v=beta&t=Je6IO25ENNqmLWCQN32eXkT0dweihBc_bGF4X1FTLHo",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 4,
       name: "Vitor Alves",
       active: false,
@@ -38,7 +38,7 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://media-exp1.licdn.com/dms/image/C4E03AQG-2M5q2Jw83g/profile-displayphoto-shrink_200_200/0/1626812614059?e=1664409600&v=beta&t=qbNT60eCLsBBXzIQNDbrfZ9EEOXUNlO5d1GFvAcdQ0M",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 5,
       name: "Celso Brandão",
       active: false,
@@ -46,7 +46,7 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://media-exp1.licdn.com/dms/image/C5603AQF51jYnVePgDA/profile-displayphoto-shrink_200_200/0/1638406494329?e=1664409600&v=beta&t=jUnHAf_xTxVDDwL4LxPdWcLWgaBFZsYPKbK8Mi_DyXk",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 6,
       name: "Thiago Cunha",
       active: false,
@@ -54,7 +54,7 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQGXKXmFTDYjbA/profile-displayphoto-shrink_200_200/0/1655819359998?e=1664409600&v=beta&t=RS2Lok5_soXFuDM90y8aMEUnZrdEqxNPX3o5vMdyHJw",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 7,
       name: "Julio Vieira",
       active: false,
@@ -62,7 +62,7 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20171114_AUT_URU_4590.jpg/210px-20171114_AUT_URU_4590.jpg",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 8,
       name: "Giorgian de Arrascaeta",
       active: false,
@@ -70,14 +70,14 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://i.pinimg.com/originals/16/25/cb/1625cbda4ed5cdfc9156922767faaf51.png",
+        "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 9,
       name: "Pedro Guilherme",
       active: false,
       isOnline: true,
     },
     {
-      image: "https://www.futcards.com.br/wp-content/uploads/2018/10/gabriel-barbosa-gabigol-flamengo.jpg",
+      image: "https://w7.pngwing.com/pngs/205/731/png-transparent-default-avatar-thumbnail.png",
       id: 10,
       name: "Gabriel Barbosa",
       active: false,
