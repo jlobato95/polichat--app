@@ -1,4 +1,4 @@
-import React, { Component, useState, createRef, useEffect } from "react";
+import React, { Component, createRef, } from "react";
 
 import "./chatContent.css";
 import Avatar from "../chatList/Avatar";
