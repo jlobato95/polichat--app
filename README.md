@@ -19,4 +19,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Acesse o Projeto
 
-- <a href="https://62dec92ac82bc24dbfdd271e--bright-eclair-167287.netlify.app/">Clique aqui</a>
+- <a href="https://main--polichat-app-jlobato95.netlify.app//">Clique aqui</a>
