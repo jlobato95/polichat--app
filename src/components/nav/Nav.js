@@ -7,7 +7,7 @@ export default class Nav extends Component {
     return (
       <div className="nav">
         <div className="nav__blocks">
-          <img src={logo}></img>
+          <img src={logo} alt=""></img>
         </div>
         <div className="nav__home">
         <i class="fa-solid fa-house"></i> </div>
