@@ -2,9 +2,7 @@ import React, { Component } from "react";
 import Avatar from "../chatList/Avatar";
 
 export default class ChatItem extends Component {
-  constructor(props) {
-    super(props);
-  }
+
   render() {
     return (
       <div
